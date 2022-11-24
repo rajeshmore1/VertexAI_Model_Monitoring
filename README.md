@@ -4,4 +4,8 @@ https://towardsdatascience.com/essential-guide-to-machine-learning-model-monitor
 
 ![image](https://user-images.githubusercontent.com/73220561/203730896-c5eb4494-fde5-4e0e-8968-1cce8e6c2752.png)
 
+1. Deepchecks
 https://docs.deepchecks.com/stable/user-guide/vision/auto_quickstarts/plot_simple_classification_tutorial.html
+
+2. NannyML
+https://nannyml.readthedocs.io/en/stable/tutorials/data_requirements.html

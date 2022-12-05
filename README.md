@@ -16,5 +16,7 @@ https://nannyml.readthedocs.io/en/stable/tutorials/data_requirements.html
 ![image](https://user-images.githubusercontent.com/73220561/203912714-c4a50812-8df5-46f7-ae8c-e68dd9c37500.png)
 ![image](https://user-images.githubusercontent.com/73220561/203912888-fdec7c98-4202-46f0-a902-da11f1d0ef62.png)
 
+### We can convert jpeg image to json base64 to provide input to the image classification model in vertex ai. It will not accept png to base64 conversion.
+
 
 
